@@ -12,3 +12,4 @@ echo "reolink-cli"
 # drop an unused branch
 # clarify the control flow
 # clarify the control flow
+# clarify the control flow
